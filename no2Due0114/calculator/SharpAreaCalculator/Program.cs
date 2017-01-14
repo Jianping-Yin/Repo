@@ -10,20 +10,13 @@ namespace SharpAreaCalculator
     {
         static void Main(string[] args)
         {
-            Sharp sharp = new Sharp();
-            Console.WriteLine("Please input rectangle size.");
-            Console.Write("Length=");
-            double length = double.Parse(Console.ReadLine());
-            Console.Write("Width=");
-            double width = double.Parse(Console.ReadLine());
-
-            Console.WriteLine("Please input Circle radius.");
-            Console.Write("Radius=");
-            double radius = double.Parse(Console.ReadLine());
-            Console.WriteLine();
-
-            Console.WriteLine("Rectangle Area=" + sharp.GetRectangleArea(width, length));
-            Console.WriteLine("Circle Area=" + sharp.GetCircleArea(radius));
+            Shape shapeRectangle = new Shape(1.0,2.0);
+            Shape shapeCircle = new Shape(1);
+            
+            shapeRectangle.Width = 2;
+            shapeCircle.Radius  = 2;
+            Console.WriteLine("Rectangle Area=" + shapeRectangle.GetRectangleArea());
+            Console.WriteLine("Circle Area=" + shapeCircle.GetCircleArea());
         }
 
 

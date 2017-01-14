@@ -5,3 +5,9 @@ C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\Repo\homework\no2Due
 C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\Repo\homework\no2Due0114\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
 C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\Repo\homework\no2Due0114\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\Repo\homework\no2Due0114\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Jianping Yin\Documents\GitHub\Repo\no2Due0114\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
