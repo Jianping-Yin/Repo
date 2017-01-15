@@ -1,0 +1,10 @@
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170112\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.exe.config
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170112\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170112\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.pdb
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170112\pratiseDue0116\practiseDue0116-2\obj\Debug\practiseDue0116-2.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170112\pratiseDue0116\practiseDue0116-2\obj\Debug\practiseDue0116-2.pdb
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.exe.config
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\pratiseDue0116\practiseDue0116-2\obj\Debug\practiseDue0116-2.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\pratiseDue0116\practiseDue0116-2\obj\Debug\practiseDue0116-2.pdb
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\pratiseDue0116\practiseDue0116-2\bin\Debug\practiseDue0116-2.pdb

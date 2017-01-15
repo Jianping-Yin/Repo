@@ -1,0 +1,6 @@
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\bin\Debug\practise1.exe.config
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\bin\Debug\practise1.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\bin\Debug\practise1.pdb
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\obj\Debug\practise1.csprojResolveAssemblyReference.cache
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\obj\Debug\practise1.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework pactise\20170108\practise1\practise1\obj\Debug\practise1.pdb
