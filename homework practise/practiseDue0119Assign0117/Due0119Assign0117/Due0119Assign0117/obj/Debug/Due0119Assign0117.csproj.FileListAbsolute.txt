@@ -1,0 +1,6 @@
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\bin\Debug\Due0119Assign0117.exe.config
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\obj\Debug\Due0119Assign0117.csprojResolveAssemblyReference.cache
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\bin\Debug\Due0119Assign0117.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\bin\Debug\Due0119Assign0117.pdb
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\obj\Debug\Due0119Assign0117.exe
+C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0119Assign0117\Due0119Assign0117\Due0119Assign0117\obj\Debug\Due0119Assign0117.pdb
