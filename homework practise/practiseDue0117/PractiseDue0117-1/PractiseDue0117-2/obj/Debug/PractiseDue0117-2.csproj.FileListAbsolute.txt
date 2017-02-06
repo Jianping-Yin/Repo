@@ -1,5 +1,0 @@
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\PractiseDue0117-2\bin\Debug\PractiseDue0117-2.exe.config
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\PractiseDue0117-2\bin\Debug\PractiseDue0117-2.exe
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\PractiseDue0117-2\bin\Debug\PractiseDue0117-2.pdb
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\PractiseDue0117-2\obj\Debug\PractiseDue0117-2.exe
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\PractiseDue0117-2\obj\Debug\PractiseDue0117-2.pdb

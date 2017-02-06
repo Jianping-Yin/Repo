@@ -1,6 +1,0 @@
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\bin\Debug\Practise0117-3.exe.config
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\bin\Debug\Practise0117-3.exe
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\bin\Debug\Practise0117-3.pdb
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\obj\Debug\Practise0117-3.csprojResolveAssemblyReference.cache
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\obj\Debug\Practise0117-3.exe
-C:\Users\Jianping Yin\Documents\Visual Studio 2015\Projects\homework practise\practiseDue0117\PractiseDue0117-1\Practise0117-3\obj\Debug\Practise0117-3.pdb
