@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<head>
+    <title></title>
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        table, th, td {
+            border: 5px solid green;
+        }
+    </style>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div style="height:10%;">
+        <div style="width:20%;height:100%;float:left;">
+            <image src="Picture.jpg" height="100%" width="100%" />
+        </div>
+        <div style="background-color:cyan;width:60%;height:100%;float:left;">
+        </div>
+        <div style="background-color:cyan;height:100%;width:20%;float:right;">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#"></a>
+                    </div>
+                    <div>
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="#">Home</a></li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                    About
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">About me</a></li>
+                                    <li><a href="#">About company</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div style="height:35%;width:100%;background-color:gray;" id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="Pic1.jpg" alt="Chania">
+            </div>
+
+            <div class="item">
+                <img src="Pic2.jpg" alt="Chania">
+            </div>
+
+            <div class="item">
+                <img src="Pic3.jpg" alt="Flower">
+            </div>
+
+            <div class="item">
+                <img src="Pic4.jpg" alt="Flower">
+            </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+
+    <div style="height:45%;background-color:cyan">
+        <div style="background-color:purple;width:20%;height:100%;float:left;">
+        </div>
+        <div style="background-color:cyan;width:60%;height:100%;float:left;overflow-y:scroll;">
+            <h1 style="color:red;width:100%;height:300px;">Red words </h1>
+            <p style="background-color:yellow;width:100%;height:300px;"> </p>
+            <div>
+                <table style="width:100%">
+                    <tr>
+                        <th>Firstname</th>
+                        <th>Lastname</th>
+                        <th>Age</th>
+                    </tr>
+                    <tr>
+                        <td>Jill</td>
+                        <td>Smith</td>
+                        <td>50</td>
+                    </tr>
+                    <tr>
+                        <td>Eve</td>
+                        <td>Jackson</td>
+                        <td>94</td>
+                    </tr>
+                    <tr>
+                        <td>John</td>
+                        <td>Doe</td>
+                        <td>80</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="container">
+                <h3>Sign Up</h3>
+                <form action="/action_page.php">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input id="email" type="text" class="form-control" name="email" placeholder="Email">
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                        <input id="password" type="password" class="form-control" name="password" placeholder="Password">
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon">Text</span>
+                        <input id="msg" type="text" class="form-control" name="msg" placeholder="Additional Info">
+                    </div>
+                    <input type="radio" name="gender" value="male" checked> Male<br>
+                    <input type="radio" name="gender" value="female"> Female<br>
+                    <div>
+                        <p>Country</p>
+                        <select>
+                            <option value="china">China</option>
+                            <option value="us">United States</option>
+                        </select>
+                    </div>
+                    <input type="submit" value="Submit">
+                </form>
+                 </div>
+
+        </div>
+
+        <div style="background-color:purple;width:20%;height:100%;float:left;">
+            <div style="background-color:purple;width:100%;height:33%;float:left;">
+                <image src="Picture.jpg" height="100%" width="100%" />
+            </div>
+            <div style="background-color:purple;width:100%;height:33%;float:left;">
+                <image src="Picture.jpg" height="100%" width="100%" />
+            </div>
+            <div style="background-color:purple;width:100%;height:34%;float:left;">
+                <image src="Picture.jpg" height="100%" width="100%" />
+            </div>
+        </div>
+    </div>
+
+    <div style="height:10%;background-color:red"></div>
+
+
+</body>
+</html>
