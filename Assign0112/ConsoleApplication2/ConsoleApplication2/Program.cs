@@ -15,8 +15,9 @@ namespace ConsoleApplication2
             {
                 for (int j = 0; j < i+1; j++)
                 {
-                    Console.Write(i + 1 + ' ');
+                    Console.Write(i + 1 + " ");
                 }
+                Console.WriteLine();
 
             }
         }

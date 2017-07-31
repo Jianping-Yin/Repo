@@ -18,10 +18,10 @@ namespace ConsoleApplication3
                     Console.Write(i + 1+" ");
                     //Console.Write(' ');
                 }
-                
 
+                Console.WriteLine();
             }
-            Console.WriteLine();
+            
 
         }
 
